@@ -3,18 +3,11 @@
 @import '../../../style.scss';
 
 :host {
-  /* badge */
-  span {
-    padding-top: 7px;
-  }
-
   .mat-badge {
-
     &-content {
       border-radius: 3px;
       width: auto !important;
       padding: 0 7px;
-      position: unset;
       color: white;
     }
 
